@@ -1,0 +1,12 @@
+[submodule "libusb4java"]
+	path = libusb4java
+	url = git@github.com:jtkb/libusb4java.git
+[submodule "usb-api"]
+	path = usb-api
+	url = git@github.com:jtkb/usb-api.git
+[submodule "usb4java"]
+	path = usb4java
+	url = git@github.com:jtkb/usb4java.git
+[submodule "usb4java-javax"]
+	path = usb4java-javax
+	url = git@github.com:jtkb/usb4java-javax.git
